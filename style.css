@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(pink,yellow);
+}
+#title{
+font-size: 30px;
+width: 40%;
+}
+#p_tag{
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#objects{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+hr{
+   background-color:blue;
+   height: 1px;
+}

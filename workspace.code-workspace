@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Image_recognizer",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
